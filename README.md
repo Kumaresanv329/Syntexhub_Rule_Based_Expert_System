@@ -5,7 +5,7 @@ This repository contains the projects completed as part of the
 
 ---
 
-## 👨‍🎓 Student Details
+## Details
 - **Name:** Kumaresan V  
 - **Course:** MCA  
 - **University:** Bharathiar University  
@@ -14,7 +14,7 @@ This repository contains the projects completed as part of the
 
 ---
 
-## 📌 Project 1: Maze Solver using A* Search Algorithm
+##  Project 1: Maze Solver using A* Search Algorithm
 
 ### 🔹 Description
 This project implements a Maze Solver using the **A* (A-Star) Search Algorithm**.  
@@ -41,7 +41,7 @@ The A* algorithm uses a heuristic (Manhattan Distance) to find the **shortest pa
 
 ---
 
-## 📌 Project 2: Rule-Based Expert System using Forward Chaining
+##  Project 2: Rule-Based Expert System using Forward Chaining
 
 ### 🔹 Description
 This project implements a **Rule-Based Expert System** using **Forward Chaining**.  
